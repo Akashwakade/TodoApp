@@ -4,8 +4,7 @@ const initState={
     
     data:[],
     
-    isLoading:false,
-    isError:false,
+  
 
 
 }
